@@ -1,0 +1,26 @@
+{
+    "windows": {
+        "offline": "https://github.com/ChathamHung/buttongame3-desktop/releases/download/v2.0/button-game-3.exe",
+        "online": "",
+        "size": {
+            "offline": "50.8 MB",
+            "online": ""
+        }
+    },
+    "macos": {
+        "offline": "",
+        "online": "",
+        "size": {
+            "offline": "",
+            "online": ""
+        }
+    },
+    "linux": {
+        "offline": "",
+        "online": "",
+        "size": {
+            "offline": "",
+            "online": ""
+        }
+    }
+}
